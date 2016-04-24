@@ -1,0 +1,2 @@
+this is d.txt file
+add some thing
